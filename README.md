@@ -10,4 +10,4 @@ link : [World Record Egg](https://github.com/amineoumous/flutter_world_record_eg
 ## 2 : My Card - Personal Business Card
 My Card App is a personal business card, to give your contact details an easy way.
 
-link : [World Record Egg](https://github.com/amineoumous/flutter_my_card)
+link : [My Card](https://github.com/amineoumous/flutter_my_card)
